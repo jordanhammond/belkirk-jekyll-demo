@@ -20,7 +20,7 @@ services:
 sub_heading: Engineering and Health Sciences
 textline: 222 Belkirk College of EngineeringOra et Labora
 hero_button:
-  text: Learn more
+  text: Hola
   href: "/about"
 show_news: true
 menu:
